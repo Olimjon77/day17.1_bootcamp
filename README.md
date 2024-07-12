@@ -1,2 +1,2 @@
 # Original readme
-Nma gap
+Bu mening readme faylim
